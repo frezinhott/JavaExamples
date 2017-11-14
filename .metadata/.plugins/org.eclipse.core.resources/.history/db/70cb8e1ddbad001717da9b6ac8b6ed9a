@@ -1,0 +1,37 @@
+package org.trevor;
+
+import java.util.Scanner;
+
+import net.webservicex.GeoIP;
+import net.webservicex.GeoIPService;
+import net.webservicex.GeoIPServiceSoap;
+
+public class IPLocationFinderClient {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String ipAddress = input.next();
+		
+		// use wsimport to create the Service End-point Interface
+		// -keep keeps the generated java files
+		// -s src stores the generated java files in the src sub-directory
+		// copy the generated java files into the net.webservicex package
+		// wsimport -keep -s src http://www.webservicex.net/geoipservice.asmx?WSDL
+		
+		// Create the service object
+		GeoIPService ipService = new GeoIPService();
+		
+		// Create service port stub that gives us access to the service methods
+		GeoIPServiceSoap geoIPServiceSoap = ipService.getGeoIPServiceSoap();
+		System.out.println("ipAddress: " + ipAddress);
+		// Get the GeoIP object
+		GeoIP geoIP = geoIPServiceSoap.getGeoIP(ipAddress);
+		
+		System.out.println("IP Country Name: " + geoIP.getCountryName());
+		
+		
+		input.close();
+
+	}
+
+}

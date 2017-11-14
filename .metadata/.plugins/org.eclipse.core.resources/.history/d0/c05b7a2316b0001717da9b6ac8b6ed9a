@@ -1,0 +1,22 @@
+package org.spring.interfaces;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class TestInterface {
+	private Drawer drawer;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		@SuppressWarnings("resource")
+		ApplicationContext context = new ClassPathXmlApplicationContext("springInterfaces.xml");
+		
+		context.getBean(TestInterface.class).workflow();
+
+	}
+	
+	public void workflow() {
+		drawer.draw();
+	}
+
+}

@@ -1,0 +1,17 @@
+package org.trevor;
+
+import java.util.Scanner;
+
+public class IPLocationFinderClient {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String ipAddress = input.next();
+		
+		// use wsimport to create the Service End-point Interface
+		
+		input.close();
+
+	}
+
+}

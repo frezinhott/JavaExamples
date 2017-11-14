@@ -1,0 +1,45 @@
+package org.spring.javabeans;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+
+public class DrawingApp {
+
+	@SuppressWarnings({ "resource" })
+	public static void main(String[] args) {
+		//Triangle triangle = new Triangle();
+		
+		ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
+		
+		// Initialize the Triangle type with the property tag (default constructor)
+		Triangle triangle1 = (Triangle) context.getBean("triangleProperty");
+		triangle1.draw();
+		
+		// Initialize the Triangle type with the construct-arg tag (1 argument)
+		Triangle triangle2 = (Triangle) context.getBean("triangleConstructor");
+		triangle2.draw();
+		
+		// Initialize the Triangle type with the construct-arg tag (2 arguments)
+		Triangle triangle3 = (Triangle) context.getBean("triangleConstructor2");
+		triangle3.draw();
+		
+		// Initialize the Triangle type with nested objects (object injection)
+		TrianglePt triangle4 = (TrianglePt) context.getBean("trianglePoint");
+		triangle4.draw();
+		
+		// Initialize the Triangle type with object injection and Inner-Beans
+		TrianglePt triangle5 = (TrianglePt) context.getBean("trianglePoint2");
+		triangle5.draw();
+		
+		// Initialize the Triangle type with an alias to triangle1
+		Triangle triangle6 = (Triangle) context.getBean("triangle-alias");
+		triangle6.draw();
+
+		// Initialize the Triangle type with a collection list
+		TrianglePtList triangle7 = (TrianglePtList) context.getBean("trianglePointList");
+		triangle7.draw();
+		
+	}
+
+}

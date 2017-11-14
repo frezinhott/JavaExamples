@@ -1,0 +1,214 @@
+2017-09-05 08:33:34,158 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2017-09-15 09:53:59,194 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-15 09:54:07,398 [Worker-262] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\Desktop\myMavenApp\MyMavenApp
+2017-09-15 09:54:07,534 [Worker-262] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2017-09-15 09:54:22,512 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-09-15 09:54:34,390 [Worker-260] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\Desktop\myMavenApp\MyMavenApp
+2017-09-15 09:54:34,390 [Worker-260] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-09-15 09:58:53,570 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-15 09:58:57,395 [Worker-270] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\Desktop\myMavenApp\MyMavenApp
+2017-09-15 09:58:57,396 [Worker-270] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-09-15 11:20:19,391 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-15 11:20:23,510 [Worker-266] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\Desktop\myMavenApp\MyMavenApp
+2017-09-15 11:20:23,510 [Worker-266] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-09-15 12:31:50,049 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-15 12:31:53,563 [Worker-275] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\Desktop\myMavenApp\MyMavenWebApp
+2017-09-15 12:31:53,563 [Worker-275] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-09-15 12:32:36,326 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-15 12:32:42,201 [Worker-276] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\Desktop\myMavenApp\MyMavenWebApp
+2017-09-15 12:32:42,202 [Worker-276] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-09-15 12:35:34,764 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-15 12:35:39,411 [Worker-257] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\Desktop\myMavenApp\MyMavenWebApp\myWebApp
+2017-09-15 12:35:39,431 [Worker-257] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-09-15 12:55:43,112 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/codehaus/mojo/archetypes/webapp-j2ee14/1.3/webapp-j2ee14-1.3.jar
+2017-09-15 12:55:43,182 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/codehaus/mojo/archetypes/webapp-j2ee14/1.3/webapp-j2ee14-1.3.jar
+2017-09-15 12:55:43,249 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/codehaus/mojo/archetypes/webapp-j2ee14/1.3/webapp-j2ee14-1.3.pom
+2017-09-15 12:55:43,310 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/codehaus/mojo/archetypes/webapp-j2ee14/1.3/webapp-j2ee14-1.3.pom
+2017-09-15 13:17:09,907 [Worker-274] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Trevor Chase\eclipse-workspace\webapp\pom.xml
+2017-09-15 13:17:10,729 [Worker-274] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.javatest.maven.eclipse-webapp:webapp:0.0.1-SNAPSHOT @ C:\Users\Trevor Chase\eclipse-workspace\webapp\pom.xml.
+2017-09-15 13:17:11,837 [Worker-274] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webapp/src/main/java
+2017-09-15 13:17:11,856 [Worker-274] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webapp/src/test/java
+2017-09-15 13:17:12,076 [Worker-274] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-09-15 13:17:12,469 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-15 13:17:12,536 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\main\resources
+2017-09-15 13:17:12,540 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-15 13:17:12,564 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\test\resources
+2017-09-15 13:18:01,244 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-15 13:18:04,323 [Worker-257] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\eclipse-workspace\webapp
+2017-09-15 13:18:04,339 [Worker-257] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-09-15 13:20:51,463 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.10/maven-jetty-plugin-6.1.10.pom
+2017-09-15 13:20:51,511 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.10/maven-jetty-plugin-6.1.10.pom
+2017-09-15 13:20:51,598 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.10/project-6.1.10.pom
+2017-09-15 13:20:51,662 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.10/project-6.1.10.pom
+2017-09-15 13:20:51,735 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.10/maven-jetty-plugin-6.1.10.jar
+2017-09-15 13:20:52,060 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.10/maven-jetty-plugin-6.1.10.jar
+2017-09-15 13:20:52,457 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.10/jetty-6.1.10.pom
+2017-09-15 13:20:52,508 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.10/jetty-6.1.10.pom
+2017-09-15 13:20:52,567 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.10/jetty-util-6.1.10.pom
+2017-09-15 13:20:52,613 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.10/jetty-util-6.1.10.pom
+2017-09-15 13:20:52,679 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api-2.5/6.1.10/servlet-api-2.5-6.1.10.pom
+2017-09-15 13:20:52,728 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api-2.5/6.1.10/servlet-api-2.5-6.1.10.pom
+2017-09-15 13:20:52,777 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.3/maven-project-2.0.3.pom
+2017-09-15 13:20:52,826 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.3/maven-project-2.0.3.pom
+2017-09-15 13:20:52,883 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.3/maven-2.0.3.pom
+2017-09-15 13:20:52,945 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.3/maven-2.0.3.pom
+2017-09-15 13:20:52,995 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.3/maven-settings-2.0.3.pom
+2017-09-15 13:20:53,070 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.3/maven-settings-2.0.3.pom
+2017-09-15 13:20:53,131 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.3/maven-model-2.0.3.pom
+2017-09-15 13:20:53,172 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.3/maven-model-2.0.3.pom
+2017-09-15 13:20:53,230 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.pom
+2017-09-15 13:20:53,275 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.pom
+2017-09-15 13:20:53,356 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.3/maven-profile-2.0.3.pom
+2017-09-15 13:20:53,405 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.3/maven-profile-2.0.3.pom
+2017-09-15 13:20:53,542 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.3/maven-artifact-manager-2.0.3.pom
+2017-09-15 13:20:53,596 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.3/maven-artifact-manager-2.0.3.pom
+2017-09-15 13:20:53,675 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.3/maven-repository-metadata-2.0.3.pom
+2017-09-15 13:20:53,731 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.3/maven-repository-metadata-2.0.3.pom
+2017-09-15 13:20:53,780 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.3/maven-artifact-2.0.3.pom
+2017-09-15 13:20:53,822 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.3/maven-artifact-2.0.3.pom
+2017-09-15 13:20:53,878 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.3/maven-plugin-api-2.0.3.pom
+2017-09-15 13:20:53,939 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.3/maven-plugin-api-2.0.3.pom
+2017-09-15 13:20:54,003 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-tools-api/2.0/maven-plugin-tools-api-2.0.pom
+2017-09-15 13:20:54,057 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-tools-api/2.0/maven-plugin-tools-api-2.0.pom
+2017-09-15 13:20:54,139 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-tools/2.0/maven-plugin-tools-2.0.pom
+2017-09-15 13:20:54,189 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-tools/2.0/maven-plugin-tools-2.0.pom
+2017-09-15 13:20:54,279 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0/maven-project-2.0.pom
+2017-09-15 13:20:54,328 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0/maven-project-2.0.pom
+2017-09-15 13:20:54,385 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0/maven-profile-2.0.pom
+2017-09-15 13:20:54,429 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0/maven-profile-2.0.pom
+2017-09-15 13:20:54,478 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0/maven-model-2.0.pom
+2017-09-15 13:20:54,523 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0/maven-model-2.0.pom
+2017-09-15 13:20:54,584 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0/maven-artifact-manager-2.0.pom
+2017-09-15 13:20:54,628 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0/maven-artifact-manager-2.0.pom
+2017-09-15 13:20:54,674 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0/maven-repository-metadata-2.0.pom
+2017-09-15 13:20:54,719 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0/maven-repository-metadata-2.0.pom
+2017-09-15 13:20:54,782 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0/maven-plugin-descriptor-2.0.pom
+2017-09-15 13:20:54,826 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0/maven-plugin-descriptor-2.0.pom
+2017-09-15 13:20:54,877 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-plus/6.1.10/jetty-plus-6.1.10.pom
+2017-09-15 13:20:54,927 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-plus/6.1.10/jetty-plus-6.1.10.pom
+2017-09-15 13:20:54,986 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/geronimo-spec/geronimo-spec-jta/1.0.1B-rc4/geronimo-spec-jta-1.0.1B-rc4.pom
+2017-09-15 13:20:55,036 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/geronimo-spec/geronimo-spec-jta/1.0.1B-rc4/geronimo-spec-jta-1.0.1B-rc4.pom
+2017-09-15 13:20:55,094 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-naming/6.1.10/jetty-naming-6.1.10.pom
+2017-09-15 13:20:55,142 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-naming/6.1.10/jetty-naming-6.1.10.pom
+2017-09-15 13:20:55,212 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/mail/mail/1.4/mail-1.4.pom
+2017-09-15 13:20:55,255 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/mail/mail/1.4/mail-1.4.pom
+2017-09-15 13:20:55,301 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2017-09-15 13:20:55,349 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2017-09-15 13:20:55,784 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-management/6.1.10/jetty-management-6.1.10.pom
+2017-09-15 13:20:55,835 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-management/6.1.10/jetty-management-6.1.10.pom
+2017-09-15 13:20:55,888 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jsp-2.1/6.1.10/jsp-2.1-6.1.10.pom
+2017-09-15 13:20:55,938 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jsp-2.1/6.1.10/jsp-2.1-6.1.10.pom
+2017-09-15 13:20:56,000 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/3.1.1/core-3.1.1.pom
+2017-09-15 13:20:56,054 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/3.1.1/core-3.1.1.pom
+2017-09-15 13:20:56,103 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jsp-api-2.1/6.1.10/jsp-api-2.1-6.1.10.pom
+2017-09-15 13:20:56,153 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jsp-api-2.1/6.1.10/jsp-api-2.1-6.1.10.pom
+2017-09-15 13:20:56,210 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ant/ant/1.6.5/ant-1.6.5.pom
+2017-09-15 13:20:56,277 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ant/ant/1.6.5/ant-1.6.5.pom
+2017-09-15 13:20:56,334 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-annotations/6.1.10/jetty-annotations-6.1.10.pom
+2017-09-15 13:20:56,376 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-annotations/6.1.10/jetty-annotations-6.1.10.pom
+2017-09-15 13:20:56,435 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-annotation_1.0_spec/1.0/geronimo-annotation_1.0_spec-1.0.pom
+2017-09-15 13:20:56,479 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-annotation_1.0_spec/1.0/geronimo-annotation_1.0_spec-1.0.pom
+2017-09-15 13:20:56,527 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.2/specs-1.2.pom
+2017-09-15 13:20:56,573 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.2/specs-1.2.pom
+2017-09-15 13:20:56,631 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.1/project-config-1.1.pom
+2017-09-15 13:20:56,678 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.1/project-config-1.1.pom
+2017-09-15 13:20:56,726 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.1/config-1.1.pom
+2017-09-15 13:20:56,769 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.1/config-1.1.pom
+2017-09-15 13:20:56,827 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.1/genesis-1.1.pom
+2017-09-15 13:20:56,871 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.1/genesis-1.1.pom
+2017-09-15 13:20:56,927 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/start/6.1.10/start-6.1.10.pom
+2017-09-15 13:20:56,972 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/start/6.1.10/start-6.1.10.pom
+2017-09-15 13:20:57,079 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.10/jetty-6.1.10.jar
+2017-09-15 13:20:57,382 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.10/jetty-6.1.10.jar
+2017-09-15 13:20:57,415 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.10/jetty-util-6.1.10.jar
+2017-09-15 13:20:57,516 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.10/jetty-util-6.1.10.jar
+2017-09-15 13:20:57,557 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api-2.5/6.1.10/servlet-api-2.5-6.1.10.jar
+2017-09-15 13:20:57,665 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api-2.5/6.1.10/servlet-api-2.5-6.1.10.jar
+2017-09-15 13:20:57,696 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.3/maven-project-2.0.3.jar
+2017-09-15 13:20:57,803 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.3/maven-project-2.0.3.jar
+2017-09-15 13:20:57,849 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.3/maven-settings-2.0.3.jar
+2017-09-15 13:20:58,135 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.3/maven-settings-2.0.3.jar
+2017-09-15 13:20:58,165 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.3/maven-profile-2.0.3.jar
+2017-09-15 13:20:58,363 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.3/maven-profile-2.0.3.jar
+2017-09-15 13:20:58,403 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.3/maven-model-2.0.3.jar
+2017-09-15 13:20:58,472 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.3/maven-model-2.0.3.jar
+2017-09-15 13:20:58,512 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.3/maven-artifact-manager-2.0.3.jar
+2017-09-15 13:20:58,568 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.3/maven-artifact-manager-2.0.3.jar
+2017-09-15 13:20:58,606 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.3/maven-repository-metadata-2.0.3.jar
+2017-09-15 13:20:58,735 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.3/maven-repository-metadata-2.0.3.jar
+2017-09-15 13:20:58,764 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar
+2017-09-15 13:20:58,867 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar
+2017-09-15 13:20:58,901 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.jar
+2017-09-15 13:20:59,012 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.jar
+2017-09-15 13:20:59,042 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.3/maven-plugin-api-2.0.3.jar
+2017-09-15 13:20:59,178 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.3/maven-plugin-api-2.0.3.jar
+2017-09-15 13:20:59,217 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.3/maven-artifact-2.0.3.jar
+2017-09-15 13:20:59,279 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.3/maven-artifact-2.0.3.jar
+2017-09-15 13:20:59,307 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-tools-api/2.0/maven-plugin-tools-api-2.0.jar
+2017-09-15 13:20:59,480 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-tools-api/2.0/maven-plugin-tools-api-2.0.jar
+2017-09-15 13:20:59,525 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0/maven-plugin-descriptor-2.0.jar
+2017-09-15 13:20:59,730 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0/maven-plugin-descriptor-2.0.jar
+2017-09-15 13:20:59,765 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-plus/6.1.10/jetty-plus-6.1.10.jar
+2017-09-15 13:20:59,824 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-plus/6.1.10/jetty-plus-6.1.10.jar
+2017-09-15 13:20:59,865 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/geronimo-spec/geronimo-spec-jta/1.0.1B-rc4/geronimo-spec-jta-1.0.1B-rc4.jar
+2017-09-15 13:21:00,038 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/geronimo-spec/geronimo-spec-jta/1.0.1B-rc4/geronimo-spec-jta-1.0.1B-rc4.jar
+2017-09-15 13:21:00,070 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-naming/6.1.10/jetty-naming-6.1.10.jar
+2017-09-15 13:21:00,279 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-naming/6.1.10/jetty-naming-6.1.10.jar
+2017-09-15 13:21:00,316 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/mail/mail/1.4/mail-1.4.jar
+2017-09-15 13:21:00,547 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/mail/mail/1.4/mail-1.4.jar
+2017-09-15 13:21:00,585 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2017-09-15 13:21:00,657 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2017-09-15 13:21:00,699 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-management/6.1.10/jetty-management-6.1.10.jar
+2017-09-15 13:21:00,826 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-management/6.1.10/jetty-management-6.1.10.jar
+2017-09-15 13:21:00,826 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jsp-2.1/6.1.10/jsp-2.1-6.1.10.jar
+2017-09-15 13:21:00,827 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/3.1.1/core-3.1.1.jar
+2017-09-15 13:21:00,837 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jsp-api-2.1/6.1.10/jsp-api-2.1-6.1.10.jar
+2017-09-15 13:21:00,837 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ant/ant/1.6.5/ant-1.6.5.jar
+2017-09-15 13:21:00,837 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-annotations/6.1.10/jetty-annotations-6.1.10.jar
+2017-09-15 13:21:00,837 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-annotation_1.0_spec/1.0/geronimo-annotation_1.0_spec-1.0.jar
+2017-09-15 13:21:00,846 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/start/6.1.10/start-6.1.10.jar
+2017-09-15 13:21:05,882 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/mortbay/jetty/jetty-management/6.1.10/jetty-management-6.1.10.jar
+2017-09-15 13:21:05,882 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/mortbay/jetty/jsp-2.1/6.1.10/jsp-2.1-6.1.10.jar
+2017-09-15 13:21:05,883 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/eclipse/jdt/core/3.1.1/core-3.1.1.jar
+2017-09-15 13:21:05,883 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/mortbay/jetty/jsp-api-2.1/6.1.10/jsp-api-2.1-6.1.10.jar
+2017-09-15 13:21:05,883 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/ant/ant/1.6.5/ant-1.6.5.jar
+2017-09-15 13:21:05,883 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/mortbay/jetty/jetty-annotations/6.1.10/jetty-annotations-6.1.10.jar
+2017-09-15 13:21:05,883 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/apache/geronimo/specs/geronimo-annotation_1.0_spec/1.0/geronimo-annotation_1.0_spec-1.0.jar
+2017-09-15 13:21:05,892 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/mortbay/jetty/start/6.1.10/start-6.1.10.jar
+2017-09-15 13:21:05,960 [ModalContext] WARN  o.e.m.e.x.i.m.MojoParameterMetadataProvider - Plugin org.mortbay.jetty:maven-jetty-plugin:6.1.10 or one of its dependencies could not be resolved: The following artifacts could not be resolved: org.mortbay.jetty:jetty-management:jar:6.1.10, org.mortbay.jetty:jsp-2.1:jar:6.1.10, org.eclipse.jdt:core:jar:3.1.1, org.mortbay.jetty:jsp-api-2.1:jar:6.1.10, ant:ant:jar:1.6.5, org.mortbay.jetty:jetty-annotations:jar:6.1.10, org.apache.geronimo.specs:geronimo-annotation_1.0_spec:jar:1.0, org.mortbay.jetty:start:jar:6.1.10: Could not transfer artifact org.mortbay.jetty:jetty-management:jar:6.1.10 from/to central (https://repo.maven.apache.org/maven2): The operation was cancelled.
+2017-09-15 13:21:49,347 [Worker-257] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.javatest.maven.eclipse-webapp:webapp:0.0.1-SNAPSHOT @ C:\Users\Trevor Chase\eclipse-workspace\webapp\pom.xml.
+2017-09-15 13:21:50,323 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-15 13:21:50,358 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\main\resources
+2017-09-15 13:21:50,378 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-15 13:21:50,407 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\test\resources
+2017-09-15 13:23:01,610 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-15 13:23:05,564 [Worker-257] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\eclipse-workspace\webapp
+2017-09-15 13:23:05,576 [Worker-257] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-09-15 13:25:58,480 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-15 13:26:02,618 [Worker-257] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Trevor Chase\eclipse-workspace\webapp
+2017-09-15 13:26:02,631 [Worker-257] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
+2017-09-18 18:03:11,906 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-18 18:04:15,875 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.javatest.maven.eclipse-webapp:webapp:0.0.1-SNAPSHOT @ C:\Users\Trevor Chase\eclipse-workspace\webapp\pom.xml.
+2017-09-18 18:04:15,875 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.javatest.maven.eclipse-webapp:webapp:0.0.1-SNAPSHOT @ C:\Users\Trevor Chase\eclipse-workspace\webapp\pom.xml.
+2017-09-18 18:04:23,187 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-18 18:04:23,218 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\main\resources
+2017-09-18 18:04:23,236 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-18 18:04:23,254 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\test\resources
+2017-09-18 18:04:25,197 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.javatest.maven.eclipse-webapp:webapp:0.0.1-SNAPSHOT @ C:\Users\Trevor Chase\eclipse-workspace\webapp\pom.xml.
+2017-09-18 18:04:26,247 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-18 18:04:26,258 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\main\resources
+2017-09-18 18:04:26,262 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-18 18:04:26,274 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\test\resources
+2017-10-13 09:29:49,526 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-13 09:30:22,580 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.javatest.maven.eclipse-webapp:webapp:0.0.1-SNAPSHOT @ C:\Users\Trevor Chase\eclipse-workspace\webapp\pom.xml.
+2017-10-13 09:30:22,580 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.javatest.maven.eclipse-webapp:webapp:0.0.1-SNAPSHOT @ C:\Users\Trevor Chase\eclipse-workspace\webapp\pom.xml.
+2017-10-13 09:30:25,417 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 09:30:25,435 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\main\resources
+2017-10-13 09:30:25,442 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 09:30:25,465 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\test\resources
+2017-10-13 09:30:27,338 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.javatest.maven.eclipse-webapp:webapp:0.0.1-SNAPSHOT @ C:\Users\Trevor Chase\eclipse-workspace\webapp\pom.xml.
+2017-10-13 09:30:28,085 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 09:30:28,099 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\main\resources
+2017-10-13 09:30:28,102 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 09:30:28,113 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Trevor Chase\eclipse-workspace\webapp\src\test\resources
+2017-10-19 07:55:32,407 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
