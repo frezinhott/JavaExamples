@@ -1,8 +1,0 @@
-
-public class drawerImpl implements drawer{
-	public boolean draw() {
-		System.out.println("I am drawing");
-		return true;
-	}
-
-}

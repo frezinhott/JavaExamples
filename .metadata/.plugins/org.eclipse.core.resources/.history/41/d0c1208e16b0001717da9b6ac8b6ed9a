@@ -1,8 +1,0 @@
-package org.spring.interfaces;
-
-public class DrawerImpl implements Drawer {
-	public void draw() {
-		System.out.println("Drawing a picture");
-	}
-
-}
